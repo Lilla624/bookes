@@ -1,0 +1,21 @@
+/*
+* File: stlye.css
+* Author: Varga Lilla
+* Copyright: 2024, Varga Lilla
+* Group: SZOFT I-1-N
+* Date: 2024-05-07
+* Github: https://github.com/Lilla624/
+* Licenc: GNU GPL
+*/
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(252, 243, 231);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: darkcyan;
+    padding: 5px;
+}
